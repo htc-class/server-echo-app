@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "**/.cache": true,
+    "**/node_modules": true,
+    "**/public": true,
+    "**/*.log": true,
+    "**/tsconfig.tsbuildinfo": true
+  }
+}
